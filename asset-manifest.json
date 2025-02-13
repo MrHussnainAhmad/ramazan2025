@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramzan2025/static/css/main.9a658fa0.css",
+    "main.js": "/ramzan2025/static/js/main.6094ba3d.js",
+    "index.html": "/ramzan2025/index.html",
+    "main.9a658fa0.css.map": "/ramzan2025/static/css/main.9a658fa0.css.map",
+    "main.6094ba3d.js.map": "/ramzan2025/static/js/main.6094ba3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a658fa0.css",
+    "static/js/main.6094ba3d.js"
+  ]
+}
